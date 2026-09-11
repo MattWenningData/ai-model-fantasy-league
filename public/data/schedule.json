@@ -1,0 +1,492 @@
+[
+  {
+    "week": 1,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 1,
+    "homeTeam": "GPT-6 Astra",
+    "awayTeam": "GPT-5.5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 1,
+    "homeTeam": "GPT-5.6 Terra",
+    "awayTeam": "GPT-5.6 Sol",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 1,
+    "homeTeam": "Claude Opus 4.8",
+    "awayTeam": "Gemini 3.8 Flash",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 1,
+    "homeTeam": "Claude Opus 5",
+    "awayTeam": "GPT-5.6 Luna",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 2,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "GPT-5.5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 2,
+    "homeTeam": "Grok 4.6",
+    "awayTeam": "GPT-5.6 Sol",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 2,
+    "homeTeam": "GPT-6 Astra",
+    "awayTeam": "Gemini 3.8 Flash",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 2,
+    "homeTeam": "GPT-5.6 Terra",
+    "awayTeam": "GPT-5.6 Luna",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 2,
+    "homeTeam": "Claude Opus 4.8",
+    "awayTeam": "Claude Opus 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 3,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "GPT-5.6 Sol",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 3,
+    "homeTeam": "GPT-5.5",
+    "awayTeam": "Gemini 3.8 Flash",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 3,
+    "homeTeam": "Grok 4.6",
+    "awayTeam": "GPT-5.6 Luna",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 3,
+    "homeTeam": "GPT-6 Astra",
+    "awayTeam": "Claude Opus 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 3,
+    "homeTeam": "GPT-5.6 Terra",
+    "awayTeam": "Claude Opus 4.8",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 4,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "Gemini 3.8 Flash",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 4,
+    "homeTeam": "GPT-5.6 Sol",
+    "awayTeam": "GPT-5.6 Luna",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 4,
+    "homeTeam": "GPT-5.5",
+    "awayTeam": "Claude Opus 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 4,
+    "homeTeam": "Grok 4.6",
+    "awayTeam": "Claude Opus 4.8",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 4,
+    "homeTeam": "GPT-6 Astra",
+    "awayTeam": "GPT-5.6 Terra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 5,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "GPT-5.6 Luna",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 5,
+    "homeTeam": "Gemini 3.8 Flash",
+    "awayTeam": "Claude Opus 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 5,
+    "homeTeam": "GPT-5.6 Sol",
+    "awayTeam": "Claude Opus 4.8",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 5,
+    "homeTeam": "GPT-5.5",
+    "awayTeam": "GPT-5.6 Terra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 5,
+    "homeTeam": "Grok 4.6",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 6,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "Claude Opus 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 6,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "Claude Opus 4.8",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 6,
+    "homeTeam": "Gemini 3.8 Flash",
+    "awayTeam": "GPT-5.6 Terra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 6,
+    "homeTeam": "GPT-5.6 Sol",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 6,
+    "homeTeam": "GPT-5.5",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 7,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "Claude Opus 4.8",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 7,
+    "homeTeam": "Claude Opus 5",
+    "awayTeam": "GPT-5.6 Terra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 7,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 7,
+    "homeTeam": "Gemini 3.8 Flash",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 7,
+    "homeTeam": "GPT-5.6 Sol",
+    "awayTeam": "GPT-5.5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 8,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "GPT-5.6 Terra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 8,
+    "homeTeam": "Claude Opus 4.8",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 8,
+    "homeTeam": "Claude Opus 5",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 8,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "GPT-5.5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 8,
+    "homeTeam": "Gemini 3.8 Flash",
+    "awayTeam": "GPT-5.6 Sol",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 9,
+    "homeTeam": "Claude Sonnet 5",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 9,
+    "homeTeam": "GPT-5.6 Terra",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 9,
+    "homeTeam": "Claude Opus 4.8",
+    "awayTeam": "GPT-5.5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 9,
+    "homeTeam": "Claude Opus 5",
+    "awayTeam": "GPT-5.6 Sol",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 9,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "Gemini 3.8 Flash",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 10,
+    "homeTeam": "Grok 4.6",
+    "awayTeam": "Claude Sonnet 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 10,
+    "homeTeam": "GPT-5.5",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 10,
+    "homeTeam": "GPT-5.6 Sol",
+    "awayTeam": "GPT-5.6 Terra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 10,
+    "homeTeam": "Gemini 3.8 Flash",
+    "awayTeam": "Claude Opus 4.8",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 10,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "Claude Opus 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 11,
+    "homeTeam": "GPT-5.5",
+    "awayTeam": "Claude Sonnet 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 11,
+    "homeTeam": "GPT-5.6 Sol",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 11,
+    "homeTeam": "Gemini 3.8 Flash",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 11,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "GPT-5.6 Terra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 11,
+    "homeTeam": "Claude Opus 5",
+    "awayTeam": "Claude Opus 4.8",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 12,
+    "homeTeam": "GPT-5.6 Sol",
+    "awayTeam": "Claude Sonnet 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 12,
+    "homeTeam": "Gemini 3.8 Flash",
+    "awayTeam": "GPT-5.5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 12,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 12,
+    "homeTeam": "Claude Opus 5",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 12,
+    "homeTeam": "Claude Opus 4.8",
+    "awayTeam": "GPT-5.6 Terra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 13,
+    "homeTeam": "Gemini 3.8 Flash",
+    "awayTeam": "Claude Sonnet 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 13,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "GPT-5.6 Sol",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 13,
+    "homeTeam": "Claude Opus 5",
+    "awayTeam": "GPT-5.5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 13,
+    "homeTeam": "Claude Opus 4.8",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 13,
+    "homeTeam": "GPT-5.6 Terra",
+    "awayTeam": "GPT-6 Astra",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 14,
+    "homeTeam": "GPT-5.6 Luna",
+    "awayTeam": "Claude Sonnet 5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 14,
+    "homeTeam": "Claude Opus 5",
+    "awayTeam": "Gemini 3.8 Flash",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 14,
+    "homeTeam": "Claude Opus 4.8",
+    "awayTeam": "GPT-5.6 Sol",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 14,
+    "homeTeam": "GPT-5.6 Terra",
+    "awayTeam": "GPT-5.5",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "week": 14,
+    "homeTeam": "GPT-6 Astra",
+    "awayTeam": "Grok 4.6",
+    "homeScore": null,
+    "awayScore": null
+  }
+]

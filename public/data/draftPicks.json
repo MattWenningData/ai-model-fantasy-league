@@ -1,0 +1,1502 @@
+[
+  {
+    "Overall": 1,
+    "Round": 1,
+    "Pick": "1.1",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Bijan Robinson",
+    "Pos": "RB",
+    "NFLTeam": "ATL"
+  },
+  {
+    "Overall": 2,
+    "Round": 1,
+    "Pick": "1.2",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Jahmyr Gibbs",
+    "Pos": "RB",
+    "NFLTeam": "DET"
+  },
+  {
+    "Overall": 3,
+    "Round": 1,
+    "Pick": "1.3",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Ja'Marr Chase",
+    "Pos": "WR",
+    "NFLTeam": "CIN"
+  },
+  {
+    "Overall": 4,
+    "Round": 1,
+    "Pick": "1.4",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Justin Jefferson",
+    "Pos": "WR",
+    "NFLTeam": "MIN"
+  },
+  {
+    "Overall": 5,
+    "Round": 1,
+    "Pick": "1.5",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Puka Nacua",
+    "Pos": "WR",
+    "NFLTeam": "LAR"
+  },
+  {
+    "Overall": 6,
+    "Round": 1,
+    "Pick": "1.6",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "CeeDee Lamb",
+    "Pos": "WR",
+    "NFLTeam": "DAL"
+  },
+  {
+    "Overall": 7,
+    "Round": 1,
+    "Pick": "1.7",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Breece Hall",
+    "Pos": "RB",
+    "NFLTeam": "NYJ"
+  },
+  {
+    "Overall": 8,
+    "Round": 1,
+    "Pick": "1.8",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Christian McCaffrey",
+    "Pos": "RB",
+    "NFLTeam": "SF"
+  },
+  {
+    "Overall": 9,
+    "Round": 1,
+    "Pick": "1.9",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Amon-Ra St. Brown",
+    "Pos": "WR",
+    "NFLTeam": "DET"
+  },
+  {
+    "Overall": 10,
+    "Round": 1,
+    "Pick": "1.10",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Jaxon Smith-Njigba",
+    "Pos": "WR",
+    "NFLTeam": "SEA"
+  },
+  {
+    "Overall": 11,
+    "Round": 2,
+    "Pick": "2.1",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Ashton Jeanty",
+    "Pos": "RB",
+    "NFLTeam": "LV"
+  },
+  {
+    "Overall": 12,
+    "Round": 2,
+    "Pick": "2.2",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Jonathan Taylor",
+    "Pos": "RB",
+    "NFLTeam": "IND"
+  },
+  {
+    "Overall": 13,
+    "Round": 2,
+    "Pick": "2.3",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "De'Von Achane",
+    "Pos": "RB",
+    "NFLTeam": "MIA"
+  },
+  {
+    "Overall": 14,
+    "Round": 2,
+    "Pick": "2.4",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Malik Nabers",
+    "Pos": "WR",
+    "NFLTeam": "NYG"
+  },
+  {
+    "Overall": 15,
+    "Round": 2,
+    "Pick": "2.5",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Saquon Barkley",
+    "Pos": "RB",
+    "NFLTeam": "PHI"
+  },
+  {
+    "Overall": 16,
+    "Round": 2,
+    "Pick": "2.6",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Brock Bowers",
+    "Pos": "TE",
+    "NFLTeam": "LV"
+  },
+  {
+    "Overall": 17,
+    "Round": 2,
+    "Pick": "2.7",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Nico Collins",
+    "Pos": "WR",
+    "NFLTeam": "HOU"
+  },
+  {
+    "Overall": 18,
+    "Round": 2,
+    "Pick": "2.8",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Brian Thomas Jr.",
+    "Pos": "WR",
+    "NFLTeam": "JAX"
+  },
+  {
+    "Overall": 19,
+    "Round": 2,
+    "Pick": "2.9",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Drake London",
+    "Pos": "WR",
+    "NFLTeam": "ATL"
+  },
+  {
+    "Overall": 20,
+    "Round": 2,
+    "Pick": "2.10",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Derrick Henry",
+    "Pos": "RB",
+    "NFLTeam": "BAL"
+  },
+  {
+    "Overall": 21,
+    "Round": 3,
+    "Pick": "3.1",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "A.J. Brown",
+    "Pos": "WR",
+    "NFLTeam": "PHI"
+  },
+  {
+    "Overall": 22,
+    "Round": 3,
+    "Pick": "3.2",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Chase Brown",
+    "Pos": "RB",
+    "NFLTeam": "CIN"
+  },
+  {
+    "Overall": 23,
+    "Round": 3,
+    "Pick": "3.3",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Trey McBride",
+    "Pos": "TE",
+    "NFLTeam": "ARI"
+  },
+  {
+    "Overall": 24,
+    "Round": 3,
+    "Pick": "3.4",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Bucky Irving",
+    "Pos": "RB",
+    "NFLTeam": "TB"
+  },
+  {
+    "Overall": 25,
+    "Round": 3,
+    "Pick": "3.5",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "James Cook",
+    "Pos": "RB",
+    "NFLTeam": "BUF"
+  },
+  {
+    "Overall": 26,
+    "Round": 3,
+    "Pick": "3.6",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Tee Higgins",
+    "Pos": "WR",
+    "NFLTeam": "CIN"
+  },
+  {
+    "Overall": 27,
+    "Round": 3,
+    "Pick": "3.7",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Marvin Harrison Jr.",
+    "Pos": "WR",
+    "NFLTeam": "ARI"
+  },
+  {
+    "Overall": 28,
+    "Round": 3,
+    "Pick": "3.8",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Kenneth Walker III",
+    "Pos": "RB",
+    "NFLTeam": "KC"
+  },
+  {
+    "Overall": 29,
+    "Round": 3,
+    "Pick": "3.9",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "James Cook III",
+    "Pos": "RB",
+    "NFLTeam": "BUF"
+  },
+  {
+    "Overall": 30,
+    "Round": 3,
+    "Pick": "3.10",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Omarion Hampton",
+    "Pos": "RB",
+    "NFLTeam": "LAC"
+  },
+  {
+    "Overall": 31,
+    "Round": 4,
+    "Pick": "4.1",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Ladd McConkey",
+    "Pos": "WR",
+    "NFLTeam": "LAC"
+  },
+  {
+    "Overall": 32,
+    "Round": 4,
+    "Pick": "4.2",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "George Pickens",
+    "Pos": "WR",
+    "NFLTeam": "DAL"
+  },
+  {
+    "Overall": 33,
+    "Round": 4,
+    "Pick": "4.3",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "DeVonta Smith",
+    "Pos": "WR",
+    "NFLTeam": "PHI"
+  },
+  {
+    "Overall": 34,
+    "Round": 4,
+    "Pick": "4.4",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Garrett Wilson",
+    "Pos": "WR",
+    "NFLTeam": "NYJ"
+  },
+  {
+    "Overall": 35,
+    "Round": 4,
+    "Pick": "4.5",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Josh Jacobs",
+    "Pos": "RB",
+    "NFLTeam": "GB"
+  },
+  {
+    "Overall": 36,
+    "Round": 4,
+    "Pick": "4.6",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Kyren Williams",
+    "Pos": "RB",
+    "NFLTeam": "LAR"
+  },
+  {
+    "Overall": 37,
+    "Round": 4,
+    "Pick": "4.7",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Josh Allen",
+    "Pos": "QB",
+    "NFLTeam": "BUF"
+  },
+  {
+    "Overall": 38,
+    "Round": 4,
+    "Pick": "4.8",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Lamar Jackson",
+    "Pos": "QB",
+    "NFLTeam": "BAL"
+  },
+  {
+    "Overall": 39,
+    "Round": 4,
+    "Pick": "4.9",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Chris Olave",
+    "Pos": "WR",
+    "NFLTeam": "NO"
+  },
+  {
+    "Overall": 40,
+    "Round": 4,
+    "Pick": "4.10",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Rashee Rice",
+    "Pos": "WR",
+    "NFLTeam": "KC"
+  },
+  {
+    "Overall": 41,
+    "Round": 5,
+    "Pick": "5.1",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "DK Metcalf",
+    "Pos": "WR",
+    "NFLTeam": "PIT"
+  },
+  {
+    "Overall": 42,
+    "Round": 5,
+    "Pick": "5.2",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Zay Flowers",
+    "Pos": "WR",
+    "NFLTeam": "BAL"
+  },
+  {
+    "Overall": 43,
+    "Round": 5,
+    "Pick": "5.3",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Davante Adams",
+    "Pos": "WR",
+    "NFLTeam": "LAR"
+  },
+  {
+    "Overall": 44,
+    "Round": 5,
+    "Pick": "5.4",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Jayden Daniels",
+    "Pos": "QB",
+    "NFLTeam": "WAS"
+  },
+  {
+    "Overall": 45,
+    "Round": 5,
+    "Pick": "5.5",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Tetairoa McMillan",
+    "Pos": "WR",
+    "NFLTeam": "CAR"
+  },
+  {
+    "Overall": 46,
+    "Round": 5,
+    "Pick": "5.6",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "D'Andre Swift",
+    "Pos": "RB",
+    "NFLTeam": "CHI"
+  },
+  {
+    "Overall": 47,
+    "Round": 5,
+    "Pick": "5.7",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Rome Odunze",
+    "Pos": "WR",
+    "NFLTeam": "CHI"
+  },
+  {
+    "Overall": 48,
+    "Round": 5,
+    "Pick": "5.8",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Quinshon Judkins",
+    "Pos": "RB",
+    "NFLTeam": "CLE"
+  },
+  {
+    "Overall": 49,
+    "Round": 5,
+    "Pick": "5.9",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Jeremiyah Love",
+    "Pos": "RB",
+    "NFLTeam": "ARI"
+  },
+  {
+    "Overall": 50,
+    "Round": 5,
+    "Pick": "5.10",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "D.J. Moore",
+    "Pos": "WR",
+    "NFLTeam": "BUF"
+  },
+  {
+    "Overall": 51,
+    "Round": 6,
+    "Pick": "6.1",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Jaylen Waddle",
+    "Pos": "WR",
+    "NFLTeam": "DEN"
+  },
+  {
+    "Overall": 52,
+    "Round": 6,
+    "Pick": "6.2",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Colston Loveland",
+    "Pos": "TE",
+    "NFLTeam": "CHI"
+  },
+  {
+    "Overall": 53,
+    "Round": 6,
+    "Pick": "6.3",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Luther Burden III",
+    "Pos": "WR",
+    "NFLTeam": "CHI"
+  },
+  {
+    "Overall": 54,
+    "Round": 6,
+    "Pick": "6.4",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Jalen Hurts",
+    "Pos": "QB",
+    "NFLTeam": "PHI"
+  },
+  {
+    "Overall": 55,
+    "Round": 6,
+    "Pick": "6.5",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Alvin Kamara",
+    "Pos": "RB",
+    "NFLTeam": "NO"
+  },
+  {
+    "Overall": 56,
+    "Round": 6,
+    "Pick": "6.6",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Emeka Egbuka",
+    "Pos": "WR",
+    "NFLTeam": "TB"
+  },
+  {
+    "Overall": 57,
+    "Round": 6,
+    "Pick": "6.7",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Terry McLaurin",
+    "Pos": "WR",
+    "NFLTeam": "WAS"
+  },
+  {
+    "Overall": 58,
+    "Round": 6,
+    "Pick": "6.8",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "George Kittle",
+    "Pos": "TE",
+    "NFLTeam": "SF"
+  },
+  {
+    "Overall": 59,
+    "Round": 6,
+    "Pick": "6.9",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Javonte Williams",
+    "Pos": "RB",
+    "NFLTeam": "DAL"
+  },
+  {
+    "Overall": 60,
+    "Round": 6,
+    "Pick": "6.10",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Xavier Worthy",
+    "Pos": "WR",
+    "NFLTeam": "KC"
+  },
+  {
+    "Overall": 61,
+    "Round": 7,
+    "Pick": "7.1",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Courtland Sutton",
+    "Pos": "WR",
+    "NFLTeam": "DEN"
+  },
+  {
+    "Overall": 62,
+    "Round": 7,
+    "Pick": "7.2",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Travis Etienne Jr.",
+    "Pos": "RB",
+    "NFLTeam": "NO"
+  },
+  {
+    "Overall": 63,
+    "Round": 7,
+    "Pick": "7.3",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Tyreek Hill",
+    "Pos": "WR",
+    "NFLTeam": "MIA"
+  },
+  {
+    "Overall": 64,
+    "Round": 7,
+    "Pick": "7.4",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Mike Evans",
+    "Pos": "WR",
+    "NFLTeam": "TB"
+  },
+  {
+    "Overall": 65,
+    "Round": 7,
+    "Pick": "7.5",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "TreVeyon Henderson",
+    "Pos": "RB",
+    "NFLTeam": "NE"
+  },
+  {
+    "Overall": 66,
+    "Round": 7,
+    "Pick": "7.6",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Michael Pittman Jr.",
+    "Pos": "WR",
+    "NFLTeam": "IND"
+  },
+  {
+    "Overall": 67,
+    "Round": 7,
+    "Pick": "7.7",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Sam LaPorta",
+    "Pos": "TE",
+    "NFLTeam": "DET"
+  },
+  {
+    "Overall": 68,
+    "Round": 7,
+    "Pick": "7.8",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Tucker Kraft",
+    "Pos": "TE",
+    "NFLTeam": "GB"
+  },
+  {
+    "Overall": 69,
+    "Round": 7,
+    "Pick": "7.9",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Drake Maye",
+    "Pos": "QB",
+    "NFLTeam": "NE"
+  },
+  {
+    "Overall": 70,
+    "Round": 7,
+    "Pick": "7.10",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Joe Burrow",
+    "Pos": "QB",
+    "NFLTeam": "CIN"
+  },
+  {
+    "Overall": 71,
+    "Round": 8,
+    "Pick": "8.1",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Makai Lemon",
+    "Pos": "WR",
+    "NFLTeam": "PHI"
+  },
+  {
+    "Overall": 72,
+    "Round": 8,
+    "Pick": "8.2",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Parker Washington",
+    "Pos": "WR",
+    "NFLTeam": "JAX"
+  },
+  {
+    "Overall": 73,
+    "Round": 8,
+    "Pick": "8.3",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "DJ Moore",
+    "Pos": "WR",
+    "NFLTeam": "BUF"
+  },
+  {
+    "Overall": 74,
+    "Round": 8,
+    "Pick": "8.4",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Dalton Kincaid",
+    "Pos": "TE",
+    "NFLTeam": "BUF"
+  },
+  {
+    "Overall": 75,
+    "Round": 8,
+    "Pick": "8.5",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "James Conner",
+    "Pos": "RB",
+    "NFLTeam": "ARI"
+  },
+  {
+    "Overall": 76,
+    "Round": 8,
+    "Pick": "8.6",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Cam Skattebo",
+    "Pos": "RB",
+    "NFLTeam": "NYG"
+  },
+  {
+    "Overall": 77,
+    "Round": 8,
+    "Pick": "8.7",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Jameson Williams",
+    "Pos": "WR",
+    "NFLTeam": "DET"
+  },
+  {
+    "Overall": 78,
+    "Round": 8,
+    "Pick": "8.8",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Chuba Hubbard",
+    "Pos": "RB",
+    "NFLTeam": "CAR"
+  },
+  {
+    "Overall": 79,
+    "Round": 8,
+    "Pick": "8.9",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Tyler Warren",
+    "Pos": "TE",
+    "NFLTeam": "IND"
+  },
+  {
+    "Overall": 80,
+    "Round": 8,
+    "Pick": "8.10",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Chris Godwin",
+    "Pos": "WR",
+    "NFLTeam": "TB"
+  },
+  {
+    "Overall": 81,
+    "Round": 9,
+    "Pick": "9.1",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Isiah Pacheco",
+    "Pos": "RB",
+    "NFLTeam": "KC"
+  },
+  {
+    "Overall": 82,
+    "Round": 9,
+    "Pick": "9.2",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Christian Watson",
+    "Pos": "WR",
+    "NFLTeam": "GB"
+  },
+  {
+    "Overall": 83,
+    "Round": 9,
+    "Pick": "9.3",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Calvin Ridley",
+    "Pos": "WR",
+    "NFLTeam": "TEN"
+  },
+  {
+    "Overall": 84,
+    "Round": 9,
+    "Pick": "9.4",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "RJ Harvey",
+    "Pos": "RB",
+    "NFLTeam": "DEN"
+  },
+  {
+    "Overall": 85,
+    "Round": 9,
+    "Pick": "9.5",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Jaylen Warren",
+    "Pos": "RB",
+    "NFLTeam": "PIT"
+  },
+  {
+    "Overall": 86,
+    "Round": 9,
+    "Pick": "9.6",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Tyrone Tracy Jr.",
+    "Pos": "RB",
+    "NFLTeam": "NYG"
+  },
+  {
+    "Overall": 87,
+    "Round": 9,
+    "Pick": "9.7",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Joe Mixon",
+    "Pos": "RB",
+    "NFLTeam": "HOU"
+  },
+  {
+    "Overall": 88,
+    "Round": 9,
+    "Pick": "9.8",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "MarShawn Lloyd",
+    "Pos": "RB",
+    "NFLTeam": "GB"
+  },
+  {
+    "Overall": 89,
+    "Round": 9,
+    "Pick": "9.9",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Bhayshul Tuten",
+    "Pos": "RB",
+    "NFLTeam": "JAX"
+  },
+  {
+    "Overall": 90,
+    "Round": 9,
+    "Pick": "9.10",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Carnell Tate",
+    "Pos": "WR",
+    "NFLTeam": "TEN"
+  },
+  {
+    "Overall": 91,
+    "Round": 10,
+    "Pick": "10.1",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "David Montgomery",
+    "Pos": "RB",
+    "NFLTeam": "HOU"
+  },
+  {
+    "Overall": 92,
+    "Round": 10,
+    "Pick": "10.2",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Josh Downs",
+    "Pos": "WR",
+    "NFLTeam": "IND"
+  },
+  {
+    "Overall": 93,
+    "Round": 10,
+    "Pick": "10.3",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Blake Corum",
+    "Pos": "RB",
+    "NFLTeam": "LAR"
+  },
+  {
+    "Overall": 94,
+    "Round": 10,
+    "Pick": "10.4",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Jonathon Brooks",
+    "Pos": "RB",
+    "NFLTeam": "CAR"
+  },
+  {
+    "Overall": 95,
+    "Round": 10,
+    "Pick": "10.5",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Deebo Samuel",
+    "Pos": "WR",
+    "NFLTeam": "WAS"
+  },
+  {
+    "Overall": 96,
+    "Round": 10,
+    "Pick": "10.6",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Rico Dowdle",
+    "Pos": "RB",
+    "NFLTeam": "PIT"
+  },
+  {
+    "Overall": 97,
+    "Round": 10,
+    "Pick": "10.7",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Kaleb Johnson",
+    "Pos": "RB",
+    "NFLTeam": "PIT"
+  },
+  {
+    "Overall": 98,
+    "Round": 10,
+    "Pick": "10.8",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Justin Herbert",
+    "Pos": "QB",
+    "NFLTeam": "LAC"
+  },
+  {
+    "Overall": 99,
+    "Round": 10,
+    "Pick": "10.9",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Jadarian Price",
+    "Pos": "RB",
+    "NFLTeam": "SEA"
+  },
+  {
+    "Overall": 100,
+    "Round": 10,
+    "Pick": "10.10",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Aaron Jones",
+    "Pos": "RB",
+    "NFLTeam": "MIN"
+  },
+  {
+    "Overall": 101,
+    "Round": 11,
+    "Pick": "11.1",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Jordan Addison",
+    "Pos": "WR",
+    "NFLTeam": "MIN"
+  },
+  {
+    "Overall": 102,
+    "Round": 11,
+    "Pick": "11.2",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Caleb Williams",
+    "Pos": "QB",
+    "NFLTeam": "CHI"
+  },
+  {
+    "Overall": 103,
+    "Round": 11,
+    "Pick": "11.3",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Travis Kelce",
+    "Pos": "TE",
+    "NFLTeam": "KC"
+  },
+  {
+    "Overall": 104,
+    "Round": 11,
+    "Pick": "11.4",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Jerry Jeudy",
+    "Pos": "WR",
+    "NFLTeam": "CLE"
+  },
+  {
+    "Overall": 105,
+    "Round": 11,
+    "Pick": "11.5",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Khalil Shakir",
+    "Pos": "WR",
+    "NFLTeam": "BUF"
+  },
+  {
+    "Overall": 106,
+    "Round": 11,
+    "Pick": "11.6",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "T.J. Hockenson",
+    "Pos": "TE",
+    "NFLTeam": "MIN"
+  },
+  {
+    "Overall": 107,
+    "Round": 11,
+    "Pick": "11.7",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Trey Benson",
+    "Pos": "RB",
+    "NFLTeam": "ARI"
+  },
+  {
+    "Overall": 108,
+    "Round": 11,
+    "Pick": "11.8",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Jordan Love",
+    "Pos": "QB",
+    "NFLTeam": "GB"
+  },
+  {
+    "Overall": 109,
+    "Round": 11,
+    "Pick": "11.9",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Rhamondre Stevenson",
+    "Pos": "RB",
+    "NFLTeam": "NE"
+  },
+  {
+    "Overall": 110,
+    "Round": 11,
+    "Pick": "11.10",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Zach Charbonnet",
+    "Pos": "RB",
+    "NFLTeam": "SEA"
+  },
+  {
+    "Overall": 111,
+    "Round": 12,
+    "Pick": "12.1",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Patrick Mahomes",
+    "Pos": "QB",
+    "NFLTeam": "KC"
+  },
+  {
+    "Overall": 112,
+    "Round": 12,
+    "Pick": "12.2",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Quentin Johnston",
+    "Pos": "WR",
+    "NFLTeam": "LAC"
+  },
+  {
+    "Overall": 113,
+    "Round": 12,
+    "Pick": "12.3",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Bo Nix",
+    "Pos": "QB",
+    "NFLTeam": "DEN"
+  },
+  {
+    "Overall": 114,
+    "Round": 12,
+    "Pick": "12.4",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "C.J. Stroud",
+    "Pos": "QB",
+    "NFLTeam": "HOU"
+  },
+  {
+    "Overall": 115,
+    "Round": 12,
+    "Pick": "12.5",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Evan Engram",
+    "Pos": "TE",
+    "NFLTeam": "DEN"
+  },
+  {
+    "Overall": 116,
+    "Round": 12,
+    "Pick": "12.6",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Jakobi Meyers",
+    "Pos": "WR",
+    "NFLTeam": "JAX"
+  },
+  {
+    "Overall": 117,
+    "Round": 12,
+    "Pick": "12.7",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Travis Hunter",
+    "Pos": "WR",
+    "NFLTeam": "JAX"
+  },
+  {
+    "Overall": 118,
+    "Round": 12,
+    "Pick": "12.8",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Tony Pollard",
+    "Pos": "RB",
+    "NFLTeam": "TEN"
+  },
+  {
+    "Overall": 119,
+    "Round": 12,
+    "Pick": "12.9",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Chris Godwin Jr.",
+    "Pos": "WR",
+    "NFLTeam": "TB"
+  },
+  {
+    "Overall": 120,
+    "Round": 12,
+    "Pick": "12.10",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Dallas Goedert",
+    "Pos": "TE",
+    "NFLTeam": "PHI"
+  },
+  {
+    "Overall": 121,
+    "Round": 13,
+    "Pick": "13.1",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Baker Mayfield",
+    "Pos": "QB",
+    "NFLTeam": "TB"
+  },
+  {
+    "Overall": 122,
+    "Round": 13,
+    "Pick": "13.2",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Harold Fannin Jr.",
+    "Pos": "TE",
+    "NFLTeam": "CLE"
+  },
+  {
+    "Overall": 123,
+    "Round": 13,
+    "Pick": "13.3",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Jordan Mason",
+    "Pos": "RB",
+    "NFLTeam": "MIN"
+  },
+  {
+    "Overall": 124,
+    "Round": 13,
+    "Pick": "13.4",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "David Njoku",
+    "Pos": "TE",
+    "NFLTeam": "CLE"
+  },
+  {
+    "Overall": 125,
+    "Round": 13,
+    "Pick": "13.5",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Trevor Lawrence",
+    "Pos": "QB",
+    "NFLTeam": "JAX"
+  },
+  {
+    "Overall": 126,
+    "Round": 13,
+    "Pick": "13.6",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Kyler Murray",
+    "Pos": "QB",
+    "NFLTeam": "ARI"
+  },
+  {
+    "Overall": 127,
+    "Round": 13,
+    "Pick": "13.7",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Mark Andrews",
+    "Pos": "TE",
+    "NFLTeam": "BAL"
+  },
+  {
+    "Overall": 128,
+    "Round": 13,
+    "Pick": "13.8",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Stefon Diggs",
+    "Pos": "WR",
+    "NFLTeam": "WAS"
+  },
+  {
+    "Overall": 129,
+    "Round": 13,
+    "Pick": "13.9",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Jayden Reed",
+    "Pos": "WR",
+    "NFLTeam": "GB"
+  },
+  {
+    "Overall": 130,
+    "Round": 13,
+    "Pick": "13.10",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Jake Ferguson",
+    "Pos": "TE",
+    "NFLTeam": "DAL"
+  },
+  {
+    "Overall": 131,
+    "Round": 14,
+    "Pick": "14.1",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Brandon Aubrey",
+    "Pos": "K",
+    "NFLTeam": "DAL"
+  },
+  {
+    "Overall": 132,
+    "Round": 14,
+    "Pick": "14.2",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Denver Broncos",
+    "Pos": "DST",
+    "NFLTeam": "DEN"
+  },
+  {
+    "Overall": 133,
+    "Round": 14,
+    "Pick": "14.3",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Los Angeles Rams",
+    "Pos": "DST",
+    "NFLTeam": "LAR"
+  },
+  {
+    "Overall": 134,
+    "Round": 14,
+    "Pick": "14.4",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "San Francisco 49ers",
+    "Pos": "DST",
+    "NFLTeam": "SF"
+  },
+  {
+    "Overall": 135,
+    "Round": 14,
+    "Pick": "14.5",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Cameron Dicker",
+    "Pos": "K",
+    "NFLTeam": "LAC"
+  },
+  {
+    "Overall": 136,
+    "Round": 14,
+    "Pick": "14.6",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Cam Little",
+    "Pos": "K",
+    "NFLTeam": "JAX"
+  },
+  {
+    "Overall": 137,
+    "Round": 14,
+    "Pick": "14.7",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Ka'imi Fairbairn",
+    "Pos": "K",
+    "NFLTeam": "HOU"
+  },
+  {
+    "Overall": 138,
+    "Round": 14,
+    "Pick": "14.8",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Los Angeles Chargers DST",
+    "Pos": "DST",
+    "NFLTeam": "LAC"
+  },
+  {
+    "Overall": 139,
+    "Round": 14,
+    "Pick": "14.9",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Houston Texans",
+    "Pos": "DST",
+    "NFLTeam": "HOU"
+  },
+  {
+    "Overall": 140,
+    "Round": 14,
+    "Pick": "14.10",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Harrison Butker",
+    "Pos": "K",
+    "NFLTeam": "KC"
+  },
+  {
+    "Overall": 141,
+    "Round": 15,
+    "Pick": "15.1",
+    "Slot": 1,
+    "Team": "Claude Sonnet 5",
+    "Player": "Philadelphia Eagles",
+    "Pos": "DST",
+    "NFLTeam": "PHI"
+  },
+  {
+    "Overall": 142,
+    "Round": 15,
+    "Pick": "15.2",
+    "Slot": 2,
+    "Team": "GPT-6 Astra",
+    "Player": "Jason Myers",
+    "Pos": "K",
+    "NFLTeam": "SEA"
+  },
+  {
+    "Overall": 143,
+    "Round": 15,
+    "Pick": "15.3",
+    "Slot": 3,
+    "Team": "GPT-5.6 Terra",
+    "Player": "Chris Boswell",
+    "Pos": "K",
+    "NFLTeam": "PIT"
+  },
+  {
+    "Overall": 144,
+    "Round": 15,
+    "Pick": "15.4",
+    "Slot": 4,
+    "Team": "Claude Opus 4.8",
+    "Player": "Baltimore Ravens",
+    "Pos": "DST",
+    "NFLTeam": "BAL"
+  },
+  {
+    "Overall": 145,
+    "Round": 15,
+    "Pick": "15.5",
+    "Slot": 5,
+    "Team": "Claude Opus 5",
+    "Player": "Detroit Lions",
+    "Pos": "DST",
+    "NFLTeam": "DET"
+  },
+  {
+    "Overall": 146,
+    "Round": 15,
+    "Pick": "15.6",
+    "Slot": 6,
+    "Team": "GPT-5.6 Luna",
+    "Player": "Pittsburgh Steelers",
+    "Pos": "DST",
+    "NFLTeam": "PIT"
+  },
+  {
+    "Overall": 147,
+    "Round": 15,
+    "Pick": "15.7",
+    "Slot": 7,
+    "Team": "Gemini 3.8 Flash",
+    "Player": "Justin Tucker",
+    "Pos": "K",
+    "NFLTeam": "BAL"
+  },
+  {
+    "Overall": 148,
+    "Round": 15,
+    "Pick": "15.8",
+    "Slot": 8,
+    "Team": "GPT-5.6 Sol",
+    "Player": "Jake Bates",
+    "Pos": "K",
+    "NFLTeam": "DET"
+  },
+  {
+    "Overall": 149,
+    "Round": 15,
+    "Pick": "15.9",
+    "Slot": 9,
+    "Team": "GPT-5.5",
+    "Player": "Evan McPherson",
+    "Pos": "K",
+    "NFLTeam": "CIN"
+  },
+  {
+    "Overall": 150,
+    "Round": 15,
+    "Pick": "15.10",
+    "Slot": 10,
+    "Team": "Grok 4.6",
+    "Player": "Seahawks",
+    "Pos": "DST",
+    "NFLTeam": "SEA"
+  }
+]
