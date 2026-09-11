@@ -257,6 +257,17 @@ a {
   gap: 6px;
 }
 
+.matchup-card-link {
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s, transform 0.15s;
+}
+
+.matchup-card-link:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
 .matchup-team {
   display: flex;
   justify-content: space-between;
@@ -276,4 +287,28 @@ a {
 
 .score {
   font-weight: 700;
+}
+
+.matchup-detail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+  align-items: start;
+}
+
+.matchup-detail-col h2 {
+  margin-bottom: 2px;
+}
+
+.started-row {
+  font-weight: 600;
+}
+
+.bench-row {
+  color: var(--muted);
+}
+
+.pending-row {
+  color: var(--muted);
+  font-style: italic;
 }

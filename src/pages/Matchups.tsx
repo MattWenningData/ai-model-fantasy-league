@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { Link } from "react-router-dom";
 import { useLeague } from "../App";
 
 export default function Matchups() {
@@ -37,7 +38,11 @@ export default function Matchups() {
           const played = homePts !== null && awayPts !== null;
           const partial = !played && (homePts !== null || awayPts !== null);
           return (
-            <div className="card matchup-card" key={i}>
+            <Link
+              className="card matchup-card matchup-card-link"
+              key={i}
+              to={`/matchups/${m.week}/${encodeURIComponent(m.homeTeam)}/${encodeURIComponent(m.awayTeam)}`}
+            >
               {partial && <div className="muted" style={{ fontSize: "0.7rem" }}>In progress</div>}
               <div className={played && homePts! > awayPts! ? "matchup-team winner" : "matchup-team"}>
                 <span>{m.homeTeam}</span>
@@ -48,7 +53,7 @@ export default function Matchups() {
                 <span>{m.awayTeam}</span>
                 <span className="score">{awayPts ?? "—"}</span>
               </div>
-            </div>
+            </Link>
           );
         })}
       </div>

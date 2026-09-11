@@ -7,6 +7,7 @@ import DraftBoard from "./pages/DraftBoard";
 import Rosters from "./pages/Rosters";
 import Standings from "./pages/Standings";
 import Matchups from "./pages/Matchups";
+import MatchupDetail from "./pages/MatchupDetail";
 import TeamDetail from "./pages/TeamDetail";
 import "./App.css";
 
@@ -43,6 +44,7 @@ export default function App() {
           <Route path="/rosters/:team" element={<TeamDetail />} />
           <Route path="/standings" element={<Standings />} />
           <Route path="/matchups" element={<Matchups />} />
+          <Route path="/matchups/:week/:home/:away" element={<MatchupDetail />} />
         </Route>
       </Routes>
     </BrowserRouter>
