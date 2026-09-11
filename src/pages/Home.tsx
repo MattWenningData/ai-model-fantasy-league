@@ -9,12 +9,23 @@ export default function Home() {
   const standings = computeStandings(schedule, weeklyTeamScores, teams);
   const topThree = standings.slice(0, 3);
 
-  const weeksWithScores = new Set(
-    weeklyTeamScores
-      .filter((s) => typeof s.StarterPoints === "number")
-      .map((s) => s.Week)
-  );
-  const currentWeek = weeksWithScores.size > 0 ? Math.max(...weeksWithScores) + 1 : 1;
+  const teamCount = teams.length;
+  const scoredByWeek = new Map<number, number>();
+  for (const s of weeklyTeamScores) {
+    if (typeof s.StarterPoints === "number") {
+      scoredByWeek.set(s.Week, (scoredByWeek.get(s.Week) ?? 0) + 1);
+    }
+  }
+  const weeksWithScores = [...scoredByWeek.keys()];
+  const latestWeekWithScores = weeksWithScores.length > 0 ? Math.max(...weeksWithScores) : 0;
+  const latestWeekComplete = (scoredByWeek.get(latestWeekWithScores) ?? 0) >= teamCount;
+  const currentWeek =
+    latestWeekWithScores === 0
+      ? 1
+      : latestWeekComplete
+      ? latestWeekWithScores + 1
+      : latestWeekWithScores;
+  const inProgress = latestWeekWithScores > 0 && !latestWeekComplete && currentWeek === latestWeekWithScores;
   const upcoming = schedule.filter((m) => m.week === currentWeek);
 
   return (
@@ -37,6 +48,11 @@ export default function Home() {
         <div className="card">
           <h3>Current Week</h3>
           <p className="big-stat">{currentWeek}</p>
+          {inProgress && (
+            <p className="muted" style={{ fontSize: "0.75rem", marginTop: 4 }}>
+              In progress — {scoredByWeek.get(currentWeek) ?? 0}/{teamCount} teams scored
+            </p>
+          )}
         </div>
       </div>
 

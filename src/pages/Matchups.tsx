@@ -35,8 +35,10 @@ export default function Matchups() {
           const homePts = scoreFor(m.week, m.homeTeam);
           const awayPts = scoreFor(m.week, m.awayTeam);
           const played = homePts !== null && awayPts !== null;
+          const partial = !played && (homePts !== null || awayPts !== null);
           return (
             <div className="card matchup-card" key={i}>
+              {partial && <div className="muted" style={{ fontSize: "0.7rem" }}>In progress</div>}
               <div className={played && homePts! > awayPts! ? "matchup-team winner" : "matchup-team"}>
                 <span>{m.homeTeam}</span>
                 <span className="score">{homePts ?? "—"}</span>

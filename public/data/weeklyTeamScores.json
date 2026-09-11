@@ -14,23 +14,23 @@
     "Week": 1,
     "Team": "GPT-6 Astra",
     "ModelID": "gpt-6-astra",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 7,
+    "BenchPoints": 7.8,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
   },
   {
     "Week": 1,
     "Team": "GPT-5.6 Terra",
     "ModelID": "gpt-5.6-terra",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 5.6,
+    "BenchPoints": 3.2,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
   },
   {
     "Week": 1,
@@ -47,12 +47,12 @@
     "Week": 1,
     "Team": "Claude Opus 5",
     "ModelID": "claude-opus-5",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 27.9,
+    "BenchPoints": 0,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
   },
   {
     "Week": 1,
@@ -69,45 +69,45 @@
     "Week": 1,
     "Team": "Gemini 3.8 Flash",
     "ModelID": "gemini-3.8-flash",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 10,
+    "BenchPoints": 0,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
   },
   {
     "Week": 1,
     "Team": "GPT-5.6 Sol",
     "ModelID": "gpt-5.6-sol",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 15.8,
+    "BenchPoints": 5.4,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
   },
   {
     "Week": 1,
     "Team": "GPT-5.5",
     "ModelID": "gpt-5.5",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 27.32,
+    "BenchPoints": 0,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
   },
   {
     "Week": 1,
     "Team": "Grok 4.6",
     "ModelID": "grok-4.6",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 39.2,
+    "BenchPoints": 0,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
   },
   {
     "Week": 2,
