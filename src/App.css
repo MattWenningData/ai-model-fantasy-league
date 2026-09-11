@@ -312,3 +312,29 @@ a {
   color: var(--muted);
   font-style: italic;
 }
+
+.section-label {
+  font-size: 0.9rem;
+  margin: 16px 0 6px;
+}
+
+.section-label.starting {
+  color: var(--win);
+}
+
+.section-label.bench {
+  color: var(--muted);
+}
+
+.section-label.pending {
+  color: #e0c341;
+}
+
+.small {
+  font-size: 0.8rem;
+}
+
+.lineup-history-table th,
+.lineup-history-table td {
+  white-space: nowrap;
+}

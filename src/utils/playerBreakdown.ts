@@ -1,5 +1,7 @@
 import type { PlayerScore } from "../types";
 
+const SLOT_LIST = ["QB", "RB1", "RB2", "WR1", "WR2", "TE", "FLEX", "K", "DST"];
+
 const SLOT_ORDER: Record<string, number> = {
   QB: 0,
   RB1: 1,
@@ -59,3 +61,51 @@ export function sumStarterPoints(rows: PlayerBreakdownRow[]): number {
     .filter((r) => r.slot !== null)
     .reduce((sum, r) => sum + (r.points ?? 0), 0);
 }
+
+export interface GroupedBreakdown {
+  starters: PlayerBreakdownRow[]; // has a confirmed lineup slot
+  bench: PlayerBreakdownRow[]; // explicitly not started
+  pending: PlayerBreakdownRow[]; // decision not recorded yet
+}
+
+/** Splits a team-week breakdown into clearly labeled starters / bench /
+ * pending groups so the UI never has to guess from row styling alone. */
+export function groupBreakdown(rows: PlayerBreakdownRow[]): GroupedBreakdown {
+  const starters: PlayerBreakdownRow[] = [];
+  const bench: PlayerBreakdownRow[] = [];
+  const pending: PlayerBreakdownRow[] = [];
+  for (const r of rows) {
+    if (r.slot !== null) starters.push(r);
+    else if (r.started === false) bench.push(r);
+    else pending.push(r);
+  }
+  return { starters, bench, pending };
+}
+
+export interface WeekLineup {
+  week: number;
+  slots: Record<string, PlayerBreakdownRow | null>;
+  bench: PlayerBreakdownRow[];
+  pending: PlayerBreakdownRow[];
+}
+
+/** Builds a week-by-week lineup history for a team: which player started in
+ * each roster slot, and who was benched / still pending, for every week
+ * that has any recorded data. */
+export function buildLineupHistory(playerScores: PlayerScore[], team: string): WeekLineup[] {
+  const weeks = Array.from(
+    new Set(playerScores.filter((p) => p.Team === team).map((p) => p.Week))
+  ).sort((a, b) => a - b);
+
+  return weeks.map((week) => {
+    const rows = getTeamWeekBreakdown(playerScores, team, week);
+    const { starters, bench, pending } = groupBreakdown(rows);
+    const slots: Record<string, PlayerBreakdownRow | null> = {};
+    for (const slotName of SLOT_LIST) {
+      slots[slotName] = starters.find((s) => s.slot === slotName) ?? null;
+    }
+    return { week, slots, bench, pending };
+  });
+}
+
+export { SLOT_LIST };
