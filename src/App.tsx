@@ -22,9 +22,6 @@ function Layout() {
         {!error && !data && <div className="banner">Loading league data…</div>}
         {data && <Outlet context={data} />}
       </main>
-      <footer className="app-footer">
-        Data exported from the AI Model Fantasy League Tracker. Re-run the export script weekly to refresh.
-      </footer>
     </div>
   );
 }
