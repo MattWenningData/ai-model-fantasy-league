@@ -6,7 +6,7 @@ const POS_ORDER: Record<string, number> = { QB: 0, RB: 1, WR: 2, TE: 3, K: 4, DS
 
 export default function TeamDetail() {
   const { team } = useParams<{ team: string }>();
-  const { rosters, weeklyTeamScores, playerScores } = useLeague();
+  const { rosters, weeklyTeamScores, playerScores, weeklyLineups } = useLeague();
 
   const teamName = decodeURIComponent(team ?? "");
   const players = rosters
@@ -17,7 +17,7 @@ export default function TeamDetail() {
     .filter((s) => s.Team === teamName)
     .sort((a, b) => a.Week - b.Week);
 
-  const lineupHistory = buildLineupHistory(playerScores, teamName);
+  const lineupHistory = buildLineupHistory(rosters, weeklyLineups, playerScores, teamName);
   const hasPending = lineupHistory.some((w) => w.pending.length > 0);
 
   return (

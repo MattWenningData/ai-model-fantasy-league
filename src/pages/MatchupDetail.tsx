@@ -66,7 +66,7 @@ function TeamColumn({
 
 export default function MatchupDetail() {
   const { week, home, away } = useParams<{ week: string; home: string; away: string }>();
-  const { weeklyTeamScores, playerScores } = useLeague();
+  const { weeklyTeamScores, playerScores, rosters, weeklyLineups } = useLeague();
 
   const weekNum = Number(week);
   const homeTeam = decodeURIComponent(home ?? "");
@@ -77,8 +77,8 @@ export default function MatchupDetail() {
     return typeof row?.StarterPoints === "number" ? row.StarterPoints : null;
   };
 
-  const homeRows = getTeamWeekBreakdown(playerScores, homeTeam, weekNum);
-  const awayRows = getTeamWeekBreakdown(playerScores, awayTeam, weekNum);
+  const homeRows = getTeamWeekBreakdown(rosters, weeklyLineups, playerScores, homeTeam, weekNum);
+  const awayRows = getTeamWeekBreakdown(rosters, weeklyLineups, playerScores, awayTeam, weekNum);
 
   return (
     <div className="page">
