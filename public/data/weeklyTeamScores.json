@@ -3,111 +3,111 @@
     "Week": 1,
     "Team": "Claude Sonnet 5",
     "ModelID": "claude-sonnet-5",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 114.24,
+    "BenchPoints": 23.6,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "GPT-6 Astra",
     "ModelID": "gpt-6-astra",
-    "StarterPoints": 7,
-    "BenchPoints": 7.8,
+    "StarterPoints": 184.36,
+    "BenchPoints": 73.2,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "GPT-5.6 Terra",
     "ModelID": "gpt-5.6-terra",
-    "StarterPoints": 5.6,
-    "BenchPoints": 3.2,
+    "StarterPoints": 102.36,
+    "BenchPoints": 29.36,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "Claude Opus 4.8",
     "ModelID": "claude-opus-4.8",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 143.66,
+    "BenchPoints": 44.66,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "Claude Opus 5",
     "ModelID": "claude-opus-5",
-    "StarterPoints": 27.9,
-    "BenchPoints": 0,
+    "StarterPoints": 111.5,
+    "BenchPoints": 46.9,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "GPT-5.6 Luna",
     "ModelID": "gpt-5.6-luna",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 110.72,
+    "BenchPoints": 17.4,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": null
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "Gemini 3.8 Flash",
     "ModelID": "gemini-3.8-flash",
-    "StarterPoints": 10,
-    "BenchPoints": 0,
+    "StarterPoints": 105.52,
+    "BenchPoints": 47.66,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "GPT-5.6 Sol",
     "ModelID": "gpt-5.6-sol",
-    "StarterPoints": 15.8,
-    "BenchPoints": 5.4,
+    "StarterPoints": 60.7,
+    "BenchPoints": 73.08,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "GPT-5.5",
     "ModelID": "gpt-5.5",
-    "StarterPoints": 27.32,
-    "BenchPoints": 0,
+    "StarterPoints": 115.82,
+    "BenchPoints": 56.5,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 1,
     "Team": "Grok 4.6",
     "ModelID": "grok-4.6",
-    "StarterPoints": 39.2,
-    "BenchPoints": 0,
+    "StarterPoints": 127.86,
+    "BenchPoints": 50.5,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
     "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet."
+    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
   },
   {
     "Week": 2,
