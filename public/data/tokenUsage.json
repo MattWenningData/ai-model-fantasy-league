@@ -7,9 +7,9 @@
     "LineupOutputTokens": 550,
     "TotalLineupTokens": 1400,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 115.79,
-    "PointsPer1KLineupTokens": 82.71,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 131.14,
+    "PointsPer1KLineupTokens": 93.67,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -19,9 +19,9 @@
     "LineupOutputTokens": 760,
     "TotalLineupTokens": 1360,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 134.13,
-    "PointsPer1KLineupTokens": 98.62,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 184.36,
+    "PointsPer1KLineupTokens": 135.56,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -31,9 +31,9 @@
     "LineupOutputTokens": 265,
     "TotalLineupTokens": 675,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 113.78,
-    "PointsPer1KLineupTokens": 168.56,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 102.36,
+    "PointsPer1KLineupTokens": 151.64,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -43,9 +43,9 @@
     "LineupOutputTokens": 620,
     "TotalLineupTokens": 1970,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 108.63,
-    "PointsPer1KLineupTokens": 55.14,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 149.76,
+    "PointsPer1KLineupTokens": 76.02,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -55,9 +55,9 @@
     "LineupOutputTokens": 650,
     "TotalLineupTokens": 1550,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 114.14,
-    "PointsPer1KLineupTokens": 73.64,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 111.5,
+    "PointsPer1KLineupTokens": 71.94,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -67,9 +67,9 @@
     "LineupOutputTokens": 250,
     "TotalLineupTokens": 810,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 114.74,
-    "PointsPer1KLineupTokens": 141.65,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 109.72,
+    "PointsPer1KLineupTokens": 135.46,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -79,9 +79,9 @@
     "LineupOutputTokens": 405,
     "TotalLineupTokens": 766,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 107.63,
-    "PointsPer1KLineupTokens": 140.51,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 105.52,
+    "PointsPer1KLineupTokens": 137.75,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -91,9 +91,9 @@
     "LineupOutputTokens": 280,
     "TotalLineupTokens": 794,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 121.1,
-    "PointsPer1KLineupTokens": 152.52,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 100.24,
+    "PointsPer1KLineupTokens": 126.25,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -103,9 +103,9 @@
     "LineupOutputTokens": 310,
     "TotalLineupTokens": 830,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 135.15,
-    "PointsPer1KLineupTokens": 162.83,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 115.82,
+    "PointsPer1KLineupTokens": 139.54,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 1,
@@ -115,9 +115,9 @@
     "LineupOutputTokens": 480,
     "TotalLineupTokens": 1400,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 127.78,
-    "PointsPer1KLineupTokens": 91.27,
-    "Notes": "Estimated tokens; actual API token metadata unavailable. Week 1 lineup rewritten into visible rows."
+    "WeeklyStarterPoints": 128.06,
+    "PointsPer1KLineupTokens": 91.47,
+    "Notes": "Week 1 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 2,
@@ -129,7 +129,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -141,7 +141,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -153,7 +153,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -165,7 +165,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -177,7 +177,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -189,7 +189,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -201,7 +201,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -213,7 +213,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -225,7 +225,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 2,
@@ -237,7 +237,7 @@
     "ScoringOrAnalysisTokens": null,
     "WeeklyStarterPoints": null,
     "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "Notes": "Week 2 lineup populated from Sleeper projections; scoring pending games."
   },
   {
     "Week": 3,

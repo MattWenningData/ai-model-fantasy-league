@@ -3,12 +3,12 @@
     "Week": 1,
     "Team": "Claude Sonnet 5",
     "ModelID": "claude-sonnet-5",
-    "StarterPoints": 114.24,
-    "BenchPoints": 23.6,
-    "OptimalStarterPoints": null,
-    "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "StarterPoints": 131.14,
+    "BenchPoints": 31.5,
+    "OptimalStarterPoints": 141.14,
+    "PointsLeftOnBench": 10,
+    "WeeklyRank": 3,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
@@ -16,32 +16,32 @@
     "ModelID": "gpt-6-astra",
     "StarterPoints": 184.36,
     "BenchPoints": 73.2,
-    "OptimalStarterPoints": null,
-    "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "OptimalStarterPoints": 198.26,
+    "PointsLeftOnBench": 13.9,
+    "WeeklyRank": 1,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
     "Team": "GPT-5.6 Terra",
     "ModelID": "gpt-5.6-terra",
     "StarterPoints": 102.36,
-    "BenchPoints": 29.36,
-    "OptimalStarterPoints": null,
-    "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "BenchPoints": 38.46,
+    "OptimalStarterPoints": 116.76,
+    "PointsLeftOnBench": 14.4,
+    "WeeklyRank": 9,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
     "Team": "Claude Opus 4.8",
     "ModelID": "claude-opus-4.8",
-    "StarterPoints": 143.66,
+    "StarterPoints": 149.76,
     "BenchPoints": 44.66,
-    "OptimalStarterPoints": null,
-    "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "OptimalStarterPoints": 158.16,
+    "PointsLeftOnBench": 8.4,
+    "WeeklyRank": 2,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
@@ -51,19 +51,19 @@
     "BenchPoints": 46.9,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "WeeklyRank": 6,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
     "Team": "GPT-5.6 Luna",
     "ModelID": "gpt-5.6-luna",
-    "StarterPoints": 110.72,
-    "BenchPoints": 17.4,
-    "OptimalStarterPoints": null,
-    "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "StarterPoints": 109.72,
+    "BenchPoints": 31.7,
+    "OptimalStarterPoints": 124.32,
+    "PointsLeftOnBench": 14.6,
+    "WeeklyRank": 7,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
@@ -73,19 +73,19 @@
     "BenchPoints": 47.66,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "WeeklyRank": 8,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
     "Team": "GPT-5.6 Sol",
     "ModelID": "gpt-5.6-sol",
-    "StarterPoints": 60.7,
-    "BenchPoints": 73.08,
-    "OptimalStarterPoints": null,
-    "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "StarterPoints": 100.24,
+    "BenchPoints": 72.08,
+    "OptimalStarterPoints": 132.98,
+    "PointsLeftOnBench": 32.74,
+    "WeeklyRank": 10,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
@@ -93,21 +93,21 @@
     "ModelID": "gpt-5.5",
     "StarterPoints": 115.82,
     "BenchPoints": 56.5,
-    "OptimalStarterPoints": null,
-    "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "OptimalStarterPoints": 132.42,
+    "PointsLeftOnBench": 16.6,
+    "WeeklyRank": 5,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 1,
     "Team": "Grok 4.6",
     "ModelID": "grok-4.6",
-    "StarterPoints": 127.86,
-    "BenchPoints": 50.5,
-    "OptimalStarterPoints": null,
-    "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": "Partial Week 1 totals from completed games only; remaining games not scored yet: DEN @ KC"
+    "StarterPoints": 128.06,
+    "BenchPoints": 72.16,
+    "OptimalStarterPoints": 166.26,
+    "PointsLeftOnBench": 38.2,
+    "WeeklyRank": 4,
+    "Notes": "Final Week 1 scores from Sleeper actual stats. Optimal left blank if missing stats prevented a full legal lineup."
   },
   {
     "Week": 2,
