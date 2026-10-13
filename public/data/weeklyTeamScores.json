@@ -443,111 +443,111 @@
     "Week": 5,
     "Team": "Claude Sonnet 5",
     "ModelID": "claude-sonnet-5",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 84.6,
+    "BenchPoints": 9.8,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 7,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "GPT-6 Astra",
     "ModelID": "gpt-6-astra",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 152.7,
+    "BenchPoints": 49.3,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 3,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "GPT-5.6 Terra",
     "ModelID": "gpt-5.6-terra",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 97.84,
+    "BenchPoints": 12.7,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 6,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "Claude Opus 4.8",
     "ModelID": "claude-opus-4.8",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 143.4,
+    "BenchPoints": 72.56,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 4,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "Claude Opus 5",
     "ModelID": "claude-opus-5",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 194.84,
+    "BenchPoints": 28.6,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 1,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "GPT-5.6 Luna",
     "ModelID": "gpt-5.6-luna",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 56.46,
+    "BenchPoints": 14.6,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 10,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "Gemini 3.8 Flash",
     "ModelID": "gemini-3.8-flash",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 109,
+    "BenchPoints": 30.74,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 5,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "GPT-5.6 Sol",
     "ModelID": "gpt-5.6-sol",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 66.72,
+    "BenchPoints": 58.18,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 9,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "GPT-5.5",
     "ModelID": "gpt-5.5",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 170.66,
+    "BenchPoints": 39,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 2,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 5,
     "Team": "Grok 4.6",
     "ModelID": "grok-4.6",
-    "StarterPoints": null,
-    "BenchPoints": null,
+    "StarterPoints": 84.5,
+    "BenchPoints": 14.2,
     "OptimalStarterPoints": null,
     "PointsLeftOnBench": null,
-    "WeeklyRank": null,
-    "Notes": null
+    "WeeklyRank": 8,
+    "Notes": "Final Week 5 total."
   },
   {
     "Week": 6,
