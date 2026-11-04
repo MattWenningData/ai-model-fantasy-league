@@ -847,9 +847,9 @@
     "LineupOutputTokens": 700,
     "TotalLineupTokens": 10200,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 79.65,
-    "PointsPer1KLineupTokens": 7.81,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 80.86,
+    "PointsPer1KLineupTokens": 7.93,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -859,9 +859,9 @@
     "LineupOutputTokens": 520,
     "TotalLineupTokens": 10020,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 179.36,
-    "PointsPer1KLineupTokens": 17.9,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 148.7,
+    "PointsPer1KLineupTokens": 14.84,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -871,9 +871,9 @@
     "LineupOutputTokens": 650,
     "TotalLineupTokens": 3250,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 114.42,
-    "PointsPer1KLineupTokens": 35.21,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 58.2,
+    "PointsPer1KLineupTokens": 17.91,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -883,9 +883,9 @@
     "LineupOutputTokens": 425,
     "TotalLineupTokens": 29775,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 132.86,
-    "PointsPer1KLineupTokens": 4.46,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 111.36,
+    "PointsPer1KLineupTokens": 3.74,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -895,9 +895,9 @@
     "LineupOutputTokens": 450,
     "TotalLineupTokens": 3450,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 110.57,
-    "PointsPer1KLineupTokens": 32.05,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 143.9,
+    "PointsPer1KLineupTokens": 41.71,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -907,9 +907,9 @@
     "LineupOutputTokens": 540,
     "TotalLineupTokens": 6140,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 121.71,
-    "PointsPer1KLineupTokens": 19.82,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 96.32,
+    "PointsPer1KLineupTokens": 15.69,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -919,9 +919,9 @@
     "LineupOutputTokens": 390,
     "TotalLineupTokens": 30340,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 114.68,
-    "PointsPer1KLineupTokens": 3.78,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 124.1,
+    "PointsPer1KLineupTokens": 4.09,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -931,9 +931,9 @@
     "LineupOutputTokens": 430,
     "TotalLineupTokens": 4430,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 157.97,
-    "PointsPer1KLineupTokens": 35.66,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 71.38,
+    "PointsPer1KLineupTokens": 16.11,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -943,9 +943,9 @@
     "LineupOutputTokens": 580,
     "TotalLineupTokens": 11080,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 68.97,
-    "PointsPer1KLineupTokens": 6.22,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 37.9,
+    "PointsPer1KLineupTokens": 3.42,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 8,
@@ -955,129 +955,129 @@
     "LineupOutputTokens": 650,
     "TotalLineupTokens": 32650,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": 112.22,
-    "PointsPer1KLineupTokens": 3.44,
-    "Notes": "Estimated tokens (chars/4)"
+    "WeeklyStarterPoints": 109.88,
+    "PointsPer1KLineupTokens": 3.37,
+    "Notes": "Week 8 final starter points updated from Sleeper actual scoring."
   },
   {
     "Week": 9,
     "Team": "Claude Opus 4.8",
     "ModelID": "claude-opus-4.8",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 12000,
+    "LineupOutputTokens": 900,
+    "TotalLineupTokens": 12900,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 104.76,
+    "PointsPer1KLineupTokens": 8.12,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "Claude Opus 5",
     "ModelID": "claude-opus-5",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 9000,
+    "LineupOutputTokens": 900,
+    "TotalLineupTokens": 9900,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 165.36,
+    "PointsPer1KLineupTokens": 16.7,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "Claude Sonnet 5",
     "ModelID": "claude-sonnet-5",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 9400,
+    "LineupOutputTokens": 850,
+    "TotalLineupTokens": 10250,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 87.42,
+    "PointsPer1KLineupTokens": 8.53,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "GPT-5.5",
     "ModelID": "gpt-5.5",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 5400,
+    "LineupOutputTokens": 410,
+    "TotalLineupTokens": 5810,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 133.33,
+    "PointsPer1KLineupTokens": 22.95,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "GPT-5.6 Luna",
     "ModelID": "gpt-5.6-luna",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 4200,
+    "LineupOutputTokens": 450,
+    "TotalLineupTokens": 4650,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 124.62,
+    "PointsPer1KLineupTokens": 26.8,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "GPT-5.6 Sol",
     "ModelID": "gpt-5.6-sol",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 4200,
+    "LineupOutputTokens": 500,
+    "TotalLineupTokens": 4700,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 122.14,
+    "PointsPer1KLineupTokens": 25.99,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "GPT-5.6 Terra",
     "ModelID": "gpt-5.6-terra",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 1100,
+    "LineupOutputTokens": 390,
+    "TotalLineupTokens": 1490,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 110.37,
+    "PointsPer1KLineupTokens": 74.07,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "GPT-6 Astra",
     "ModelID": "gpt-6-astra",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 3500,
+    "LineupOutputTokens": 600,
+    "TotalLineupTokens": 4100,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 129.36,
+    "PointsPer1KLineupTokens": 31.55,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "Gemini 3.8 Flash",
     "ModelID": "gemini-3.8-flash",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 10800,
+    "LineupOutputTokens": 620,
+    "TotalLineupTokens": 11420,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 84.68,
+    "PointsPer1KLineupTokens": 7.42,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 9,
     "Team": "Grok 4.6",
     "ModelID": "grok-4.6",
-    "LineupInputTokens": null,
-    "LineupOutputTokens": null,
-    "TotalLineupTokens": null,
+    "LineupInputTokens": 12000,
+    "LineupOutputTokens": 700,
+    "TotalLineupTokens": 12700,
     "ScoringOrAnalysisTokens": null,
-    "WeeklyStarterPoints": null,
-    "PointsPer1KLineupTokens": null,
-    "Notes": null
+    "WeeklyStarterPoints": 108.45,
+    "PointsPer1KLineupTokens": 8.54,
+    "Notes": "Estimated tokens (chars/4 where unavailable)"
   },
   {
     "Week": 10,
